@@ -8,7 +8,7 @@
 - User able to get the status of the students in a nicely formatted text file.
 - Use any database (Oracle/MySQL) to store the required data.
 
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 _**GUI (Graphical User Interface)** in Java is an easy-to-use visual experience builder for Java applications. It is mainly made of graphical components like buttons, labels, windows, etc. through which the user can interact with an application. GUI plays an important role to build easy interfaces for Java applications. For this project, we need to create a GUI based JAVA program for the Placement Data Management System. We will be having two types of users that will login in to the system i.e. Students and Admin, both will require their own interface as per the requirement. The Student can only view his/her details given that he provides his name and UID correctly. Student cannot edit their details. Admin can add, update and view Student details as per college’s requirement. To solve the above problem, I have created two tabs, admin and student individually. Admin will open the Admin Panel and login and Students will open Student Panel and View their details with proper authentication details._
 
